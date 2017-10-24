@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Apple</key>
+	<array>
+		<string>DADiskCopyDescription</string>
+		<string>FSCopyAliasInfo</string>
+		<string>FSCopyDiskIDForVolume</string>
+		<string>FSCopyURLForVolume</string>
+		<string>FSGetCatalogInfo</string>
+		<string>FSGetCatalogInfoBulk</string>
+		<string>FSGetVolumeInfo</string>
+		<string>FSGetVolumeMountInfo</string>
+		<string>FSGetVolumeParms</string>
+		<string>GetAliasInfo</string>
+		<string>PBGetVolMountInfo</string>
+		<string>PBHGetVolParms</string>
+	</array>
+	<key>BSD</key>
+	<array>
+		<string>access</string>
+		<string>getattrlist</string>
+		<string>getdirentries</string>
+		<string>readdir</string>
+		<string>stat</string>
+		<string>statfs</string>
+	</array>
+</dict>
+</plist>
