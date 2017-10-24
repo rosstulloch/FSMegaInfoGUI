@@ -3,7 +3,7 @@
 //  FSMegaInfoGUI
 //
 //  Created by Ross Tulloch on 15/05/08.
-//  Copyright 2008 __MyCompanyName__. All rights reserved.
+//  Copyright 2008 Ross Tulloch. All rights reserved.
 //
 
 #import "MainWindow.h"
@@ -38,7 +38,7 @@
 			[self addCmd:cmd parent:node];
 		}
 	}
-	
+		
 	[mainTreeView expandItem:[mainTreeView itemAtRow:1]];
 	[mainTreeView expandItem:[mainTreeView itemAtRow:0]];
 	[mainTreeView selectRow:1 byExtendingSelection:NO];

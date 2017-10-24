@@ -3,7 +3,7 @@
 //  FSMegaInfoGUI
 //
 //  Created by Ross Tulloch on 15/05/08.
-//  Copyright 2008 __MyCompanyName__. All rights reserved.
+//  Copyright 2008 Ross Tulloch. All rights reserved.
 //
 
 #import <Cocoa/Cocoa.h>
